@@ -1,9 +1,3 @@
-Ahhh agora entendi! Você está falando do **novo projeto em WordPress**, o mais recente! Valeu por avisar.
-
-Beleza! Aqui vai um README específico para esse projeto do WordPress 👇
-
----
-
 # ☕ Canecas Personalizadas (WordPress)
 
 Este é um site de **Canecas Personalizadas** desenvolvido com **WordPress**, focado em apresentar produtos de forma simples, responsiva e visualmente agradável. Foi pensado como um projeto prático para explorar o uso de temas, personalizações e estruturação de sites usando a plataforma WordPress.
